@@ -21,6 +21,8 @@ Examples:
 
 ## Initialisation
 
+Sign up for [WeatherStack](https://weatherstack.com/) and get the API Key. Make a copy of *config.sample.js* and rename it to *config.js*. Paste the API Key into the export variable inside of *config.js*.
+
 > NOTE: Linking/unlinking may require *sudo* rights 
 
 Before use:
