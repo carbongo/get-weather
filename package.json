@@ -1,0 +1,19 @@
+{
+  "name": "get-weather",
+  "version": "1.0.0",
+  "description": "A simple weather request",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbongo/get-weather.git"
+  },
+  "author": "carbongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbongo/get-weather/issues"
+  },
+  "homepage": "https://github.com/carbongo/get-weather#readme"
+}
