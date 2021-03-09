@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/carbongo/get-weather/issues"
   },
-  "homepage": "https://github.com/carbongo/get-weather#readme"
+  "homepage": "https://github.com/carbongo/get-weather#readme",
+  "bin": {
+    "get-weather": "index.js"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
